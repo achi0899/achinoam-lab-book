@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am futur PhD student in marine ecology and physiology science in PutnamLAb. My project will be based on Genetic, functional and reproductive diversity of Pocillopora in the lagoon of Mo’orea. 
+
  
 
 ### More Information
@@ -13,14 +13,21 @@ https://pierrickharnay.github.io/PierrickHarnay_Notebook/
 
 ### Contact me
 
-[pierrick.harnay@gmail.com](mailto:Pierrick_harnay@uri.com)
+[achi089943746@gmail.com](mailto:Pierrick_harnay@uri.com)
 
 
-## <center>PIERRICK E. HARNAY</center><center>Department of Biological Sciences</center><center>University of Rhode Island</center><center>120 Flagg Road, Kingston RI 02881</center>### EDUCATION2021-2022 | **Université Paris Sorbonne** | **École Pratique des Hautes Études (EPHE)**   
-	- Master degree 2  
-		- Biodiversity and Environment, Integrative Master of 		  Global Health and Ecology with honours   
-		- Course Locations: Sorbonne (Paris), CNRS (Montpellier), and CRIOBE
-		  (Perpignan France and Mo’orea French Polynesia)  
+## <center>ACHINOAM KLING</center>
+<center>Department of Marine Biological</center>
+<center>University of Hifa</center>
+<center>120 Flagg Road, Kingston RI 02881</center>
+
+
+### EDUCATION
+2020-2023 | ** Bar Ilan University** |  
+	- bachelor degree   
+		- Biotechnology 
+		- R cours
+		 
 		  
 2019-2020 | **Université Paris Sorbonne** | **EPHE**   
 	- Master degree 1   
@@ -38,8 +45,9 @@ https://pierrickharnay.github.io/PierrickHarnay_Notebook/
 2013-2016 | **Lycée Jeanne Antide**   
 *2015-2016* Certificate of competence for the sale of non-domestic animals of captive wildlife (List E5-E7, TCVA)   
 *2013-2015* Professional baccalaureate Technician Sales Consultant in Pet Shop   
-### Professional Experience
-2022 | ***Universiy of Rhode Island - Rhode Island, USA***
+
+### Professional Experience
+2025 | ***Hadassah Ein Kerem Hospitall-Genetics dipartmebt***
 		- Supervisors - Dr. Hollie Putnam
 	- Effects of acute thermal stress and acute thermal priming on larvae of 	  the reef building coral *Pocillopora acuta*
 	- Genetic, functional and reproductive diversity of *Pocillopora sp.* in 	  the lagoon of Mo’orea.
@@ -68,20 +76,25 @@ https://pierrickharnay.github.io/PierrickHarnay_Notebook/
 	Coral Farmer   
 	- Supervisors – Mr. Boris Rota   
 	- Coral fragmentation, coral husbandry, coral health, species selection   
-### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
+
+### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
 - Harnay P, Huffmyer A, Fellous A, Hedouin L, Putnam HM (In Preparation) Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta*   
 - Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta* - Master 2 Degree Thesis Report   
 - Évaluation du blanchissement corallien sur les coraux des lagons de Polynésie Française lors de l’épisode 2019 – Master 1 Degree Thesis Report   
 - Effet de l’acidification des océans sur les coraux scléractiniaires – Bachelor Degree Thesis Report   
-	   ### SCHOLARSHIPS AND AWARDS
+	   
+### SCHOLARSHIPS AND AWARDS
 - Master degree 1 and 2 Awarded with Honors   
 - Scholarships for academic excellence are not given in France, but are income based   
 - Technical Specialist Diploma (DU) Awarded with Honors   
-### TEACHING AND EDUCATION
+
+### TEACHING AND EDUCATION
 - Université de Lorraine 
 	- Coral Reef Informational Presentations to Bachelor students   
 	- Coral Reef Informational Presentations to Highschool students 
-- French/English Translation of educational materials in person and online   ### CONFERENCE
+- French/English Translation of educational materials in person and online   
+
+### CONFERENCE
 - Benthic Ecology Meeting - NH, Portsmouth, USA 
 	- Effects of thermal stress and thermal priming on larvae of the reef 	  building coral *Pocillopora acuta*
 
@@ -89,4 +102,6 @@ https://pierrickharnay.github.io/PierrickHarnay_Notebook/
 - PADI Advanced Open Water SCUBA Diving
 - Permis Mer – French Boating License for Coastal Waters
 - Languages – French (Native), English (Fluent oral and written)
-- Software – R/Rstudio, QGIS, Microsoft Excel/Word/Powerpoint, Adobe Photoshop, GitHub
+- Software – R/Rstudio, QGIS, Microsoft Excel/Word/Powerpoint, Adobe Photoshop, GitHub
+
+
