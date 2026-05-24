@@ -22,8 +22,7 @@ add 100 ul internal standart FAME, for 10 ml stock- 1000 ug/ml + actiton
 
 ##step 5:
 
-PH control-add 1-2 drops of phenolphthalein (in the frieg), 
-            add slowly 500 ul 1M HCL (for 20000ul- 16000ul 1.25 HCL, 4000ul methanol) use normal pipetor
+PH control-add 1-2 drops of phenolphthalein (in the frieg),   add slowly 500 ul 1M HCL (for 20000ul- 16000ul 1.25 HCL, 4000ul methanol) use normal pipetor
 
 
 ##step 6:            
@@ -31,8 +30,7 @@ vortex, and boil for 5 minutes
 
 ##step 7:
 
-add 2ml NaCL (in the fridge), vortex
-   (for 50 ml-0.35g/ml)
+add 2ml NaCL (in the fridge), vortex (for 50 ml-0.35g/ml)
 
 ##step 8:
 
@@ -50,7 +48,7 @@ put the samples in small narrow tubes, and take the upper layer in GC vial
 
 put in the GC-MS and start the progrem
 
-![fame_standart](images/fame_standart.png)
+![fame_standart](../images/fame_standart.png)
 
 ##Figure 1: inpute of the fatty acid in the GC-MS
 | Fish ID | Season | Temperature (C) | Length (cm) | Weight (g) | FA % |
