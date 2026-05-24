@@ -50,7 +50,7 @@ put the samples in small narrow tubes, and take the upper layer in GC vial
 
 put in the GC-MS and start the progrem
 
-![fame standart](images/fame_standart.jpg)
+![fame_standart](images/fame_standart.png)
 
 ##Figure 1: inpute of the fatty acid in the GC-MS
 | Fish ID | Season | Temperature (C) | Length (cm) | Weight (g) | FA % |
