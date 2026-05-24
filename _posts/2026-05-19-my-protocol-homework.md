@@ -54,7 +54,10 @@ put the samples in small narrow tubes, and take the upper layer in GC vial
 
 put in the GC-MS and start the progrem
 
-<img src="/achinoam-lab-book/images/fame_standart.png" width="500">
+
+<img src="https://achi0899.github.io/achinoam-lab-book/images/fame_standart.png" width="400">
+
+
 
 ##Figure 1: inpute of the fatty acid in the GC-MS
 | Fish ID | Season | Temperature (C) | Length (cm) | Weight (g) | FA % |
