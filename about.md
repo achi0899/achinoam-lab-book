@@ -9,11 +9,11 @@ permalink: /about/
 
 ### More Information
 
-https://pierrickharnay.github.io/PierrickHarnay_Notebook/
+[https://achi0899.github.io/achinoam-lab-book/] (https://achi0899.github.io/achinoam-lab-book/)
 
 ### Contact me
 
-[achi089943746@gmail.com](mailto:Pierrick_harnay@uri.com)
+[achi089943746@gmail.com](achi089943746@gmail.com)
 
 
 ## <center>ACHINOAM KLING</center>
