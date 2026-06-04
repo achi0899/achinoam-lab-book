@@ -48,10 +48,10 @@ The alignment was used to identify conserved regions and variable regions.
 
 Conserved regions were selected as possible primer-binding sites. Variable regions containing SNPs and/or indels were used as informative regions for species identification.
 
-![Diatom sequence alignment]((https://achi0899.github.io/achinoam-lab-book/images/fasta1.png))
-![Multiple sequence alignment]((https://achi0899.github.io/achinoam-lab-book/images/fasta2.png))
-![Multiple sequence alignment]((https://achi0899.github.io/achinoam-lab-book/images/fasta3.png))
-![Multiple sequence alignment]((https://achi0899.github.io/achinoam-lab-book/images/fasta4.png))
+![Diatom sequence alignment](https://achi0899.github.io/achinoam-lab-book/images/fasta1.png)
+![Multiple sequence alignment](https://achi0899.github.io/achinoam-lab-book/images/fasta2.png)
+![Multiple sequence alignment](https://achi0899.github.io/achinoam-lab-book/images/fasta3.png)
+![Multiple sequence alignment](https://achi0899.github.io/achinoam-lab-book/images/fasta4.png)
 ---
 
 ## Primer Design
@@ -76,7 +76,7 @@ Primers were designed using **Primer3**.
 
 **Expected amplicon size:** 184 bp
 
-![Primer3 results]((https://achi0899.github.io/achinoam-lab-book/images/priner3.png))
+![Primer3 results](https://achi0899.github.io/achinoam-lab-book/images/priner3.png)
 
 ---
 
@@ -100,7 +100,7 @@ The primers also amplified related diatom species, including:
 
 Therefore, the primers are not completely species-specific. However, they amplify a barcode region that can be sequenced and compared among species. Species identification would rely on sequence variation within the amplified region rather than PCR amplification alone.
 
-![Primer-BLAST results]((https://achi0899.github.io/achinoam-lab-book/images/blusthomework.png))
+![Primer-BLAST results](https://achi0899.github.io/achinoam-lab-book/images/blusthomework.png)
 
 ---
 
@@ -119,7 +119,7 @@ A phylogenetic tree was constructed using **MEGA**.
 | Rates among sites | Uniform rates |
 | Gaps/missing data treatment | Pairwise deletion |
 
-![Phylogenetic tree]((https://achi0899.github.io/achinoam-lab-book/images/diatomtreehomework.png))
+![Phylogenetic tree](https://achi0899.github.io/achinoam-lab-book/images/diatomtreehomework.png)
 
 ---
 
