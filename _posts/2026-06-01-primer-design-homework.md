@@ -48,7 +48,7 @@ The alignment was used to identify conserved regions and variable regions.
 
 Conserved regions were selected as possible primer-binding sites. Variable regions containing SNPs and/or indels were used as informative regions for species identification.
 
-![Diatom sequence alignment](/achinoam-lab-book/images/fasta1.png)
+![Diatom sequence alignment](/images/fasta1.png)
 ![Multiple sequence alignment](/achinoam-lab-book/images/fasta2.png)
 ![Multiple sequence alignment](/achinoam-lab-book/images/fasta3.png)
 ![Multiple sequence alignment](/achinoam-lab-book/images/fasta4.png)
