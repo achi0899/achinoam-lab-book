@@ -40,13 +40,13 @@ The analysis was performed in R using the packages `dplyr`, `lubridate`, `hms`, 
 
 ### Figure 1. PI curves for light and dark treatments
 
-![PI curves](images/PI_curves.png)
+![PI curves](![PI curves](/achinoam-lab-book/images/PI_curves.png))
 
 **Figure 1.** Photosynthesis-irradiance curves for samples from the light and dark treatment groups. Points represent measured ETR values at each PAR level. Lines represent fitted PI curves for each sample.
 
 ### Figure 2. Photophysiology parameters by treatment
 
-![Photophysiology parameters](images/boxplots_parameters.png)
+![Light PI curves](/achinoam-lab-book/images/PI_curves_Light.png)
 
 **Figure 2.** Estimated photophysiology parameters for light and dark treatments. The parameters are Am, AQY, Rd and Ik. Each point represents one sample, colored by taxon.
 
@@ -86,3 +86,49 @@ The PI curves describe how ETR changes with increasing light intensity. Am repre
 The comparison between light and dark treatments allows evaluation of whether prior light conditions affected photosynthetic performance. In this dataset, the paired Wilcoxon tests did not show statistically significant differences after BH correction for the tested parameters. Therefore, based on these data, there is no strong statistical evidence that the light and dark treatments caused consistent changes in Am, AQY, Rd or Ik across paired taxa.
 
 However, the ratio and difference plots show that the response may vary among taxa. This suggests that taxon-specific patterns could be biologically relevant, even if the overall paired statistical tests were not significant with the current sample size.
+
+## Figure 1 – Photosynthesis–Irradiance (PI) curves
+
+![PI curves](../images/PI_curves.png)
+
+**Figure 1.** Photosynthesis–irradiance (PI) curves for all samples from the Light and Dark treatments.
+
+---
+
+## Figure 2 – Light treatment
+
+![Light PI curves](../images/PI_curves_Light.png)
+
+**Figure 2.** Photosynthesis–irradiance curves for samples in the Light treatment.
+
+---
+
+## Figure 3 – Dark treatment
+
+![Dark PI curves](../images/PI_curves_Dark.png)
+
+**Figure 3.** Photosynthesis–irradiance curves for samples in the Dark treatment.
+
+---
+
+## Figure 4 – Photophysiology parameters
+
+![Photophysiology parameters](../images/boxplots_parameters.png)
+
+**Figure 4.** Distribution of the photophysiological parameters (Am, AQY, Rd and Ik) in the Light and Dark treatments.
+
+---
+
+## Figure 5 – Difference between treatments
+
+![Difference plot](../images/difference_plot.png)
+
+**Figure 5.** Difference in photophysiological parameters between the Light and Dark treatments for each taxon.
+
+---
+
+## Figure 6 – Light/Dark ratio
+
+![Ratio plot](../images/ratio_plot.png)
+
+**Figure 6.** Ratio of Light to Dark values for each photophysiological parameter. A value of 1 indicates no difference between treatments.
