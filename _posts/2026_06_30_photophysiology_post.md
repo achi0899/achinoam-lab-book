@@ -40,7 +40,7 @@ The analysis was performed in R using the packages `dplyr`, `lubridate`, `hms`, 
 
 ### Figure 1. PI curves for light and dark treatments
 
-![PI curves](![PI curves](/achinoam-lab-book/images/PI_curves.png))
+![PI curves]((https://github.com/achi0899/achinoam-lab-book/blob/main/images/PI_curves.png))
 
 **Figure 1.** Photosynthesis-irradiance curves for samples from the light and dark treatment groups. Points represent measured ETR values at each PAR level. Lines represent fitted PI curves for each sample.
 
