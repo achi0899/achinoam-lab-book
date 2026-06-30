@@ -105,9 +105,10 @@ Overall, none of the photophysiological parameters showed statistically signific
 
 ## Interpretation
 
+
 The fitted PI curves and derived photophysiological parameters were used to compare algae exposed to the Light and Dark treatments.
 
-The paired Wilcoxon tests did not detect statistically significant differences after Benjamini–Hochberg correction for any of the measured parameters (Am, AQY, Rd and Ik). Therefore, based on these data, there is no strong statistical evidence that the Light and Dark treatments produced consistent changes in photophysiological performance across the paired taxa.
+The Wilcoxon tests did not detect statistically significant differences after Benjamini–Hochberg correction for any of the measured parameters (Am, AQY, Rd and Ik). Therefore, based on these data, there is no strong statistical evidence that the Light and Dark treatments produced consistent changes in the photophysiological performance of the algae included in this study.
 
-However, the ratio and difference plots indicate that responses varied among taxa. This suggests that individual species may respond differently to light history, although these trends were not statistically significant in the present dataset. Future studies with larger sample sizes may help determine whether these taxon-specific patterns represent real biological responses.
+However, the ratio and difference plots indicate that responses varied among algal species. This suggests that different species may respond differently to light conditions, although these trends were not statistically significant in the present dataset. In the future studies with larger sample sizes may help determine whether these species-specific patterns represent real biological responses.
 
